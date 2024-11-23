@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a104f9d8-1ac9-4fa1-89f9-c7908eb50d9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/criptProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caesar_chiper.py" afterDir="false" />
-    </list>
+    <list default="true" id="a104f9d8-1ac9-4fa1-89f9-c7908eb50d9c" name="Changes" comment="Script caesar_chiper.py is ready" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +53,15 @@
       <option name="presentableId" value="Default" />
       <updated>1732374544138</updated>
     </task>
+    <task id="LOCAL-00001" summary="Script caesar_chiper.py is ready">
+      <option name="closed" value="true" />
+      <created>1732385398266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732385398266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Script caesar_chiper.py is ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Script caesar_chiper.py is ready" />
   </component>
 </project>
